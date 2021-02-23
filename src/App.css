@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+img{
+  width:5em;
+}
+
+table{
+  width:100%
+}
+td,tr,th{
+  padding:0.5em;
+}
+
+th{
+  font-size: 1.5em;
+}
+
+body{
+  max-width:700px ;
+  margin: auto;
+  background-color: beige;
+}
+button{
+  font-size: large;
+  margin:0.5em;
+}
+
